@@ -11,7 +11,7 @@ In this lab, you will learn how to:
 - Make a sprite follow another sprite.
 - Make a sprite bounce off the edges of the screen.
 
-![overview](https://github.com/rymc88/Lab-1-3/blob/master/img/overview.gif?raw=true)
+![Overview](https://github.com/rymc88/Lab-1-3/blob/master/img/overview.gif?raw=true)
 
 ## Hero Sprite Movement
 
@@ -433,7 +433,7 @@ bouncyBall.setStayInScreen(true)
 
 That's a little better, but the ball is not vey bouncy.
 
-![No Bouncy Ball](https://github.com/rymc88/Lab-1-3/blob/master/img/no-bouce-ball.gif?raw=true)
+![Not Bouncy Ball](https://github.com/rymc88/Lab-1-3/blob/master/img/no-bouce-ball.gif?raw=true)
 
 Let's try something else.
 
